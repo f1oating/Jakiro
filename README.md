@@ -1,0 +1,1 @@
+Jakarta servlet web app, with PostgreSql , authorization, authentification etc.
